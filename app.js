@@ -1,7 +1,7 @@
 // Configure your chapters here.
 // "file" is the path to the .txt file relative to index.html.
 const chapters = [
-  { id: 1, title: "Chapter 1: Introduction", file: "bom_text/the_bom/1_the_first_book_of_nephi/chapter_1.txt" },
+  { id: 1, title: "Chapter 1: Introduction", file: "/TheBookofMormon/bom_text/the_bom/1_the_first_book_of_nephi/chapter_1.txt" },
   { id: 2, title: "Chapter 2: The Journey Begins", file: "chapters/chapter2.txt" },
   { id: 3, title: "Chapter 3: A New Challenge", file: "chapters/chapter3.txt" },
   // Add more chapters as needed...
