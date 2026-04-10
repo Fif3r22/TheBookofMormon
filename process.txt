@@ -1,0 +1,8 @@
+# Work Plan
+
+1) Extract the full text into a folder structure: one folder for each book, one file for each chapter, all versification removed.
+[X] Remove boilerplate text
+[ ] 
+2) Break each chapter into paragraphs using a free llm api
+3) Design a basic reading interface using textual: load and display formatted text, turn pages, search, navigate through table of contents
+4) Deploy the app to a user, either through a native app or a web-based frontend (github pages?)
