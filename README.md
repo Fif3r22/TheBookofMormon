@@ -3,9 +3,9 @@
 
 ## Folders
 
-- `/code`: Contains the Python scripts I used to process the HTML file of the Book of Mormon text.
-- `/bom_text`: Contains the original Project Gutenberg HTML Book of Mormon text (called `bom_full_text.html`), as well as a midway-processed version (called `bom_content.html`).
-    - `/the_bom`: Contains the folders and text files extracted from the HTML file: one folder for each book of the Book of Mormon, and one .txt file for each chapter.
+- [`/code`](https://github.com/Fif3r22/TheBookofMormon/tree/main/code): Contains the Python scripts I used to process the HTML file of the Book of Mormon text.
+- [`/bom_text`](https://github.com/Fif3r22/TheBookofMormon/tree/main/bom_text): Contains the original Project Gutenberg HTML Book of Mormon text (called [`bom_full_text.html`](https://github.com/Fif3r22/TheBookofMormon/blob/main/bom_text/bom_full_text.html)), as well as a midway-processed version (called [`bom_content.html`](https://github.com/Fif3r22/TheBookofMormon/blob/main/bom_text/bom_content.html)).
+    - [`/the_bom`](https://github.com/Fif3r22/TheBookofMormon/tree/main/bom_text/the_bom): Contains the folders and text files extracted from the HTML file: one folder for each book of the Book of Mormon, and one .txt file for each chapter.
 
 ## Summary
 
